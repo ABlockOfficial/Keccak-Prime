@@ -1,6 +1,6 @@
 # Keccak Prime
 
-The implementation of Zenotta's Keccak Prime function.
+The hashing algorithm that keeps your PoW blockchain green.
 
 To make use of CPU acceleration for AES, provide the following compilation flags:
 
