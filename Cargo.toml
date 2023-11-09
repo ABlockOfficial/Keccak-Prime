@@ -3,6 +3,13 @@ name = "keccak_prime"
 version = "0.1.0"
 authors = ["Nikita Baksalyar <nikita.baksalyar@gmail.com>"]
 edition = "2018"
+license = "MIT"
+keywords = ["hash", "keccak"]
+readme = "README.md"
+description = "The hashing algorithm that keeps your blockchain green"
+homepage = "https://a-block.io"
+documentation = "https://a-block.io"
+repository = "https://github.com/ABlockOfficial/Keccak-Prime"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
